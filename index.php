@@ -106,7 +106,7 @@
 							style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">
 							<!-- Layer Item  -->
 							<p class="m-width no-margin">
-								Connecting African American and Hispanic founders to the resources they need to help their companies succeed.
+								Connecting African American, Hispanic, and Female founders to the resources they need to help their companies succeed.
 							</p>
 						</div>
 
@@ -158,7 +158,7 @@
 
 			<!-- Header -->
 			<h1 class="header header-style-1 dark normal uppercase oswald animated" data-animation="fadeIn" data-animation-delay="200">
-				<span class="colored">EMPOWERING </span> AFRICAN-AMERICAN & HISPANIC FOUNDERS
+				<span class="colored">EMPOWERING </span> AFRICAN-AMERICAN, HISPANIC FOUNDERS & FEMALE FOUNDERS
 			</h1>
 			<!-- Header Text -->
 			<p class="light animated" data-animation="fadeIn" data-animation-delay="200">
