@@ -6477,7 +6477,7 @@
 		color:#efefef;
 	}
 	
-	.contact .contact_form.type-2 input[type=text]:focus,.contact .contact_form.type-2 input[type=email]:focus,
+	.contact .contact_form.type-2 input[type=text]:focus,
 	.contact .contact_form.type-2 textarea:focus,
 	.contact .contact_form.type-2 button:focus{
 		text-transform:none;

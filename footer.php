@@ -14,8 +14,8 @@
 				<ol>
 					<li>
 						<!-- Link -->
-						<a href="http://buildup.vc/" target="_blank">
-							BuildUp 
+						<a href="http://techinclusion.co/" target="_blank">
+							Tech Inclusion
 						</a>
 					</li>
 					<li>
@@ -94,7 +94,7 @@
 				<div class="left f-left">
 					<!-- Text and Link -->
 					<p class="copyright">
-						©2015 ALL RIGHT RESERVED, TRANSPARENT COLLECTIVE, LLC
+						©2016 ALL RIGHT RESERVED, TRANSPARENT COLLECTIVE, LLC
 					</p>
 				</div>
 				<!-- End Left -->

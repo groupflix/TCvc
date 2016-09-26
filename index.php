@@ -106,7 +106,7 @@
 							style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">
 							<!-- Layer Item  -->
 							<p class="m-width no-margin">
-								Connecting African American and Hispanic founders to the resources they need to help their companies succeed.
+								Connecting African American, Hispanic and Women founders to the resources they need to help their companies succeed.
 							</p>
 						</div>
 
@@ -158,11 +158,11 @@
 
 			<!-- Header -->
 			<h1 class="header header-style-1 dark normal uppercase oswald animated" data-animation="fadeIn" data-animation-delay="200">
-				<span class="colored">EMPOWERING </span> AFRICAN-AMERICAN & HISPANIC FOUNDERS
+				<span class="colored">EMPOWERING </span> AFRICAN-AMERICAN, HISPANIC & WOMEN FOUNDERS
 			</h1>
 			<!-- Header Text -->
 			<p class="light animated" data-animation="fadeIn" data-animation-delay="200">
-				Make History By Helping Unite Our Brightest Minds in Tech
+				Make History By Helping Unite Our Brightest Minds in Support of Minorities in Tech
 			</p>
 
 			<!-- Boxes and Box Type -->
@@ -399,7 +399,7 @@
 	                            </h2>
 	                            <!-- Tags -->
 	                            <p class="tags raleway">
-	                            	x-founder, Partner @ Ycombinator
+	                            	Founder Mentor
 	                            </p>
 	                        </div>
 	                    </div>
@@ -412,38 +412,36 @@
 
 
 	        <!-- Item -->
-	       	<div class="cbp-item item investor">
-	       		<!-- Item Link -->
-				<a href="#" class="cbp-caption ex-link">
-
-	            	<!-- Item Image -->
-	                <div class="cbp-caption-defaultWrap">
-	                	<!-- Image Src -->
-	                    <img src="images/people/charles_hudson.png" alt="Charles Hudson">
-	                </div>
-	                <!-- End Item Image -->
-
-	                <!-- Item Details -->
-	                <div class="cbp-caption-activeWrap">
-	                	<!-- Centered Details -->
-	                    <div class="center-details">
-	                        <div class="details oswald uppercase">
-	                        	<!-- Item Name -->
-	                            <h2 class="name">
-	                            	Charles Hudson
-	                            </h2>
-	                            <!-- Tags -->
-	                            <p class="tags raleway">
-	                            	Precusor VC, Bay Area
-	                            </p>
-	                        </div>
-	                    </div>
-	                    <!-- End Center Details Div -->
-	                </div>
-	                <!-- End Item Details -->
-	            </a>
-	            <!-- End Item Link -->
-	        </div>
+	       	 <div class="cbp-item item investor">
+                
+                <a href="projects/project_01.html" class="cbp-caption ex-link">
+    
+                    
+                    <div class="cbp-caption-defaultWrap">
+                        
+                        <img src="images/people/marcos_gonzales.png" alt="marcos_gonzales">
+                    </div>
+                   
+                    <div class="cbp-caption-activeWrap">
+                        
+                        <div class="center-details">
+                            <div class="details oswald uppercase">
+                                
+                                <h2 class="name ">
+                                    Marcos Gonzales
+                                </h2>
+                              
+                                <p class="tags raleway">
+                                    Investor
+                                </p>
+                            </div>
+                        </div>
+                      
+                    </div>
+                  
+                </a>
+                
+            </div>
 	        <!-- End Item -->
 
 
@@ -471,7 +469,7 @@
 	                            </h2>
 	                            <!-- Tags -->
 	                            <p class="tags raleway">
-	                            	Founder @ Kairos
+	                            	Founder @ Tech Inclusion
 	                            </p>
 	                        </div>
 	                    </div>
@@ -578,7 +576,7 @@
 	                            </h2>
 	                            <!-- Tags -->
 	                            <p class="tags raleway">
-	                            	Chief of Staff @ a16z
+	                            	Founder Mentor
 	                            </p>
 	                        </div>
 	                    </div>
@@ -593,14 +591,14 @@
 
 	       
         <!-- Item -->
-        <div class="cbp-item item investor">
+       <div class="cbp-item item founder">
             
             <a href="projects/project_01.html" class="cbp-caption ex-link">
 
                 
                 <div class="cbp-caption-defaultWrap">
                     
-                    <img src="images/people/carolina_huaranca.png" alt="carolina_huaranca">
+                    <img src="images/people/brian_brackeen.png" alt="brian_brackeen">
                 </div>
                
                 <div class="cbp-caption-activeWrap">
@@ -609,11 +607,11 @@
                         <div class="details oswald uppercase">
                             
                             <h2 class="name ">
-                                Carolina Huaranca
+                                Brian Brackeen
                             </h2>
                           
                             <p class="tags raleway">
-                                EIR @ Kapor Capital
+                                Founder @ Kairos
                             </p>
                         </div>
                     </div>
@@ -665,9 +663,9 @@
     	</div>
     	<!-- End Portfolio Items -->
 
-    	<!-- Load More -->
+    	<!-- Load More 
     	<div id="loadMore-container" class="loadmore">
-    		 <!-- Load More Button Link -->
+    		
             <a href="assets/loadMore.html" class="load-more-button cbp-l-loadMore-link oswald uppercase t-center light-type antialiased">
 				<span class="cbp-l-loadMore-defaultText">LOAD MORE</span>
                 <span class="cbp-l-loadMore-loadingText">LOADING...</span>
@@ -706,10 +704,9 @@
 		<!-- Partner Logos -->
 		<div class="client-logos box-carousel three-items">
 			
-			<!-- Client Logo Div -->
 			<div class="client-logo">
 				<!-- Logo Link -->
-				<a href="http://buiness.pilot.ly">
+				<a href="http://business.pilot.ly">
 					<!-- Logo Image SRC -->
 					<img src="images/partners/pilotly_silver.png" alt="pilotly_silver">
 				</a>
@@ -719,9 +716,9 @@
 			<!-- Client Logo Div -->
 			<div class="client-logo">
 				<!-- Logo Link -->
-				<a href="http://senetur.com">
+				<a href="http://www.wsgr.com">
 					<!-- Logo Image SRC -->
-					<img src="images/partners/senetur_silver.png" alt="senetur_silver">
+					<img src="images/partners/wsgr_gold.png" alt="wilson sonsini">
 				</a>
 			</div>
 			<!-- End Client Logo Div -->
@@ -730,9 +727,9 @@
 			<!-- Client Logo Div -->
 			<div class="client-logo">
 				<!-- Logo Link -->
-				<a href="http://threaddating.com/">
+				<a href="http://senetur.com/">
 					<!-- Logo Image SRC -->
-					<img src="images/partners/thread_silver.png" alt="v">
+					<img src="images/partners/senetur_silver.png" alt="senetur_silver">
 				</a>
 			</div>
 			<!-- End Client Logo Div -->
